@@ -1,0 +1,47 @@
+html, body {
+    text-align: auto;
+    justify-content: center;
+    display: flex;
+    min-height: 100vh;
+    padding-top: 10px;
+    font-family: sans-serif;
+    line-height: 1.15;
+    -webkit-text-size-adjust: 100%;
+    -webkit-tap-highlight-color: transparent;
+}
+
+h1,h2,h3,h4  {
+    text-align: center;
+    padding-top: 20px;
+    padding-bottom: 30px;
+}
+
+section {
+    width: 800px;
+}
+p {
+    font-weight: 500;
+    font-family: Inter, sans-serif;
+    font-size: 20px;
+}
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border-style: none;
+    height: auto;
+    max-width: 100%;
+    padding-bottom: 30px;
+    border-radius: 10px;
+   
+}
+@media screen and (max-width: 480px) {
+    section {
+        width: auto;
+    }
+    img {
+        width: auto;
+    }
+
+}
+    
