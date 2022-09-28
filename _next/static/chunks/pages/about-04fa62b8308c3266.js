@@ -503,8 +503,8 @@
                         }),
                       }),
                       (0, d.jsx)("p", { className: "".concat(B().lcnNYU, " ").concat(B().gdvYxk), children: " Currently, the Play2World partners verify play as activity validators eg " }),
-                      (0, d.jsx)("a", { href: "http://Play2.Help", alt: "link to play2.help website", target: "_blank", children: "Play2HelpWorld"}),
-                      (0, d.jsx)("p", { className: "".concat(B().lcnNYU, " ").concat(B().gdvYxk), children:" plus coming soon Play2Health, Play2Work & Play2Experience." }),
+                      (0, d.jsx)("a", { href: "https://play2helpworld.com", alt: "link to play2help website", target: "_blank", children: "Play2HelpWorld"}),
+                      (0, d.jsx)("p", { className: "".concat(B().lcnNYU, " ").concat(B().gdvYxk), children:" plus Play2Health, Play2Work Play2Learn, Play2LiveWell & Play2Experience." }),
                     ],
                   }),
                   (0, d.jsx)("p", {
