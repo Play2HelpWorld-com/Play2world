@@ -517,7 +517,7 @@
                         (0, d.jsx)("br", {}),
                         (0, d.jsxs)("span", {
                               className: B().dQyejO,
-                              children: [(0, d.jsx)("a", { href: "https://play2.help", target: "_blank", rel: "noopener noreferrer", children: "Play 2 Help Fun Free Games Select Rewards For You And Charities" })],
+                              children: [(0, d.jsx)("a", { href: "https://play2helpworld.com", target: "_blank", rel: "noopener noreferrer", children: "Play 2 Help Fun Free Games Select Rewards For You And Charities" })],
                             }),
                             ". ", "Enjoy our fun free games, select rewards for you and popular charities.",
                             ],
