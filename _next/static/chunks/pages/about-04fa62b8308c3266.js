@@ -221,7 +221,7 @@
                       children: [
                         "We've known for a long time that kids and older people can help their brains get and stay strong through simple puzzles. But in many countries people have recently earned more from playing new blockchain games than the local average salaries! On buses and trains everywhere we see workers getting some light relief on their way to and from their place of work. Yet even some of the biggest challenges known to man e.g. understanding what we see through big telescopes or how to help computers understand images are being advanced by breaking big tasks into little ones and gamifying them to get more people involved and engaged. To learn more about both the long term as well as the latest proven benefits of play, please read our",
                         " ",
-                        (0, d.jsx)("a", { href: "https://play2world785164829.wordpress.com/2022/06/13/the-value-of-casual-games-on-phones/", target: "_blank", rel: "noopener noreferrer", children: "research article" }),
+                        (0, d.jsx)("a", { href: "https://mauricebigmoflynn.wordpress.com/", target: "_blank", rel: "noopener noreferrer", children: "research article" }),
                         ".",
                       ],
                     }),
