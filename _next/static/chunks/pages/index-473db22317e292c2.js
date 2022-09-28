@@ -646,7 +646,7 @@
                       (0, d.jsx)("br", {}),
                       "To learn more about the value of play, read our research article →",
                       " ",
-                      (0, d.jsxs)("strong", { children: [(0, d.jsx)("a", { href: "https://play2world785164829.wordpress.com/2022/06/13/the-value-of-casual-games-on-phones/", target: "_blank", rel: "noopener noreferrer", children: "here" }), "."] }),
+                      (0, d.jsxs)("strong", { children: [(0, d.jsx)("a", { href: "https://mauricebigmoflynn.wordpress.com/", target: "_blank", rel: "noopener noreferrer", children: "here" }), "."] }),
                     ],
                   }),
                 }),
