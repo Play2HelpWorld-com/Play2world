@@ -887,9 +887,9 @@
                                   className: M().wDGMb,
                                   children: [
                                     "Login or create your ",
-                                    (0, d.jsx)("a", { href: "http://play2.help.s3-website.eu-west-2.amazonaws.com/", style: {color: "#facc15"}, target: "_blank", rel: "noopener noreferrer", children: "Play2World account" }),
-                                    " which links with our partner Play2 experiences eg ", (0, d.jsx)("a", { href: "http://play2.help.s3-website.eu-west-2.amazonaws.com/", style: {color:"#facc15"}, target: "_blank", rel: "noopener noreferrer", children: "Play2Help" }),
-                                    "  World and coming soon Play2Health, Play2Work, Play2Experience & more!"
+                                    (0, d.jsx)("a", { href: "https://play2helpworld.com/", style: {color: "#facc15"}, target: "_blank", rel: "noopener noreferrer", children: "Play2World account" }),
+                                    " which links with our partner Play2 experiences eg ", (0, d.jsx)("a", { href: "https://play2helpworld.com/", style: {color:"#facc15"}, target: "_blank", rel: "noopener noreferrer", children: "Play2Help" }),
+                                    "  World, Play2Health, Play2Work, Play2Learn, Play2LiveWell and coming soon Play2Experience & more!"
                                   ],
                                 }),
                                 (0, d.jsx)("div", {
